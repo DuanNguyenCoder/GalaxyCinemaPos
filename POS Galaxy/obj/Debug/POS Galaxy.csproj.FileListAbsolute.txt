@@ -1,0 +1,98 @@
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe.config
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\bin\Debug\Guna.UI2.dll
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.AssemblyReference.cache
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Form1.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Properties.Resources.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.GenerateResource.cache
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CopyComplete
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.ComboPopcorn.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Drink.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_chai.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_lon.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_lon_chai_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.ticket.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.film_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.showTime_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.seat.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_famlily.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_nestle.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.fastfood.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.snack.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Voucher.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.fastFood_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.snack_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.voucher_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.bill_item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe.config
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Guna.UI2.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.AssemblyReference.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Form1.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.ComboPopcorn.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Drink.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_chai.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_lon.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.fastfood.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.snack.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Voucher.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Properties.Resources.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.seat.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.ticket.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.bill_item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_famlily.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_nestle.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_lon_chai_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.fastFood_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.film_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.showTime_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.snack_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.voucher_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.GenerateResource.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CopyComplete
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectLy.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.selectPopcorn.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.detailCombo.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.ticket_Item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.promotion.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Login_UI.Login.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Manager.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Interop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\Interop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.ResolveComReference.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.test.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Pay.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Payment_UI.PrintBill.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.item_printReciept.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectFastFood.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectSnack.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.selectSnack_item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.presentation.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.presentation.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.momopay.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.selectFastFood_Item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.findBarcode.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.popcorn.resources
